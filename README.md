@@ -11,7 +11,7 @@
 - [X] Database Relationship
 - [X] API
 
-![alt text] (https://github.com/Rhuan-Rodrigues1/Nlw_Valoriza/blob/main/gif%20git/newUser.gif?raw=true)
+![alt text] (https://github.com/Rhuan-Rodrigues1/Nlw_Valoriza/blob/main/gif%20git/newUser.gif)
 
 # How to run the application
    Install the dependecies:
