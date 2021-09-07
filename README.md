@@ -2,7 +2,7 @@
 
 ### Project made at nlw at rocktseat in order to learn and evolve
 
-![Alt Text] (https://github.com/Rhuan-Rodrigues1/Nlw_Valoriza/blob/main/gif%20git/demonst.gif?raw=true)
+![alt text] (https://github.com/Rhuan-Rodrigues1/Nlw_Valoriza/blob/main/gif%20git/demonst.gif?raw=true)
 
 ## What I've learned ?
 
@@ -11,7 +11,7 @@
 - [X] Database Relationship
 - [X] API
 
-![Alt Text] (https://github.com/Rhuan-Rodrigues1/Nlw_Valoriza/blob/main/gif%20git/newUser.gif?raw=true)
+![alt text] (https://github.com/Rhuan-Rodrigues1/Nlw_Valoriza/blob/main/gif%20git/newUser.gif?raw=true)
 
 # How to run the application
    Install the dependecies:
